@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pananchauhan.github.io/csb-b543vl/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://pananchauhan.github.io/csb-b543vl/static/js/main.0863e2f9.chunk.js",
+    "main.js.map": "https://pananchauhan.github.io/csb-b543vl/static/js/main.0863e2f9.chunk.js.map",
+    "runtime-main.js": "https://pananchauhan.github.io/csb-b543vl/static/js/runtime-main.aab9240c.js",
+    "runtime-main.js.map": "https://pananchauhan.github.io/csb-b543vl/static/js/runtime-main.aab9240c.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://pananchauhan.github.io/csb-b543vl/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://pananchauhan.github.io/csb-b543vl/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://pananchauhan.github.io/csb-b543vl/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://pananchauhan.github.io/csb-b543vl/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://pananchauhan.github.io/csb-b543vl/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aab9240c.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0863e2f9.chunk.js"
+  ]
+}
